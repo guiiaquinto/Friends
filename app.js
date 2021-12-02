@@ -2,6 +2,7 @@ let epFriends = require("./base")
 
 function gerar() {
     var nEpisodio = Math.floor(Math.random() * epFriends.length);
+    (epFriends.length)
     var eps = document.querySelector('div#res');
     eps.innerHTML = `<p>O episódio que você tem que assistir é <strong>${nEpisodio} </strong></p>`
 }
