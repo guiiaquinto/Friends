@@ -95,4 +95,3 @@ let episodios = [
     episodio: "24",
     nome:"The One Where Rachel Finds Out"}
 ]
-module.exports = episodios;
