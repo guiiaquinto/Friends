@@ -5,7 +5,7 @@ let episodios = [
     
     {temporada:"1",
     episodio: "2",
-    nome:"he One with the Sonogram at the End"},
+    nome:"The One with the Sonogram at the End"},
 
     {temporada:"1",
     episodio: "3",
@@ -61,11 +61,11 @@ let episodios = [
     
     {temporada:"1",
     episodio: "16",
-    nome:"he One with Two Parts: Part 1"},
+    nome:"The One with Two Parts: Part 1"},
     
     {temporada:"1",
     episodio: "17",
-    nome:"he One with Two Parts: Part 2"},
+    nome:"The One with Two Parts: Part 2"},
     
     {temporada:"1",
     episodio: "18",
@@ -93,5 +93,197 @@ let episodios = [
 
     {temporada:"1",
     episodio: "24",
-    nome:"The One Where Rachel Finds Out"}
+    nome:"The One Where Rachel Finds Out"},
+    
+    {temporada:"2",
+    episodio: "1",
+    nome:""},
+    
+    {temporada:"2",
+    episodio: "2",
+    nome:""},
+
+    {temporada:"2",
+    episodio: "3",
+    nome:""},
+    
+    {temporada:"2",
+    episodio: "4",
+    nome:""},
+    
+    {temporada:"2",
+    episodio: "5",
+    nome:""},
+    
+    {temporada:"2",
+    episodio: "6",
+    nome:""},
+    
+    {temporada:"2",
+    episodio: "7",
+    nome:""},
+    
+    {temporada:"2",
+    episodio: "8",
+    nome:""},
+    
+    {temporada:"2",
+    episodio: "9",
+    nome:""},
+
+    {temporada:"2",
+    episodio: "10",
+    nome:""},
+    
+    {temporada:"2",
+    episodio: "11",
+    nome:""},
+    
+    {temporada:"2",
+    episodio: "12",
+    nome:""},
+
+    {temporada:"2",
+    episodio: "13",
+    nome:""},
+    
+    {temporada:"2",
+    episodio: "14",
+    nome:""},
+    
+    {temporada:"2",
+    episodio: "15",
+    nome:""},
+    
+    {temporada:"2",
+    episodio: "16",
+    nome:""},
+    
+    {temporada:"2",
+    episodio: "17",
+    nome:""},
+    
+    {temporada:"2",
+    episodio: "18",
+    nome:""},
+    
+    {temporada:"2",
+    episodio: "19",
+    nome:""},
+
+    {temporada:"2",
+    episodio: "20",
+    nome:""},
+
+    {temporada:"2",
+    episodio: "21",
+    nome:""},
+
+    {temporada:"2",
+    episodio: "22",
+    nome:""},
+
+    {temporada:"2",
+    episodio: "23",
+    nome:""},
+
+    {temporada:"2",
+    episodio: "24",
+    nome:""},
+
+    {temporada:"3",
+    episodio: "1",
+    nome:""},
+    
+    {temporada:"3",
+    episodio: "2",
+    nome:""},
+
+    {temporada:"3",
+    episodio: "3",
+    nome:""},
+    
+    {temporada:"3",
+    episodio: "4",
+    nome:""},
+    
+    {temporada:"3",
+    episodio: "5",
+    nome:""},
+    
+    {temporada:"3",
+    episodio: "6",
+    nome:""},
+    
+    {temporada:"3",
+    episodio: "7",
+    nome:""},
+    
+    {temporada:"3",
+    episodio: "8",
+    nome:""},
+    
+    {temporada:"3",
+    episodio: "9",
+    nome:""},
+
+    {temporada:"3",
+    episodio: "10",
+    nome:""},
+    
+    {temporada:"3",
+    episodio: "11",
+    nome:""},
+    
+    {temporada:"3",
+    episodio: "12",
+    nome:""},
+
+    {temporada:"3",
+    episodio: "13",
+    nome:""},
+    
+    {temporada:"3",
+    episodio: "14",
+    nome:""},
+    
+    {temporada:"3",
+    episodio: "15",
+    nome:""},
+    
+    {temporada:"3",
+    episodio: "16",
+    nome:""},
+    
+    {temporada:"3",
+    episodio: "17",
+    nome:""},
+    
+    {temporada:"3",
+    episodio: "18",
+    nome:""},
+    
+    {temporada:"3",
+    episodio: "19",
+    nome:""},
+
+    {temporada:"3",
+    episodio: "20",
+    nome:""},
+
+    {temporada:"3",
+    episodio: "21",
+    nome:""},
+
+    {temporada:"3",
+    episodio: "22",
+    nome:""},
+
+    {temporada:"3",
+    episodio: "23",
+    nome:""},
+
+    {temporada:"3",
+    episodio: "24",
+    nome:""}
 ]
